@@ -2,7 +2,7 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	font: 100%/1.4 Helvetica;
-     background-color: ##4C7EAD;
+     background-color: #4C7EAD;
      margin: 0;
      padding: 0;
      color: #222222;
@@ -16,7 +16,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: ##9B7A45;
+	background: #4C7EAD;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -35,7 +35,7 @@ body {
 	text-align: center;
 }
 .content {
-	background: ##1B88F0;
+	background: #1B88F0;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -51,10 +51,10 @@ body {
 }
 
 a:link {
-     color: ##1B88F0;
+     color: #1B88F0;
 }
 a:visited {
-     color: ##F59E0F;
+     color: #F59E0F;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
