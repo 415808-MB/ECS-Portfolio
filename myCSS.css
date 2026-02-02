@@ -5,7 +5,8 @@ body {
      background-color: ##4C7EAD;
      margin: 0;
      padding: 0;
-     color: #000;
+     color: #222222;
+}
 
 .homePage {
 	background: #222222;
@@ -50,10 +51,10 @@ body {
 }
 
 a:link {
-     color: #000000;
+     color: ##1B88F0;
 }
 a:visited {
-     color: #000;
+     color: ##F59E0F;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
